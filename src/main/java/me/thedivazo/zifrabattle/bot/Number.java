@@ -20,7 +20,6 @@ public final class Number {
 
     private int intNumber;
     private String strNumber;
-
     /***
      * Метод генерирует случайное четырех-значное число, цифры которого не повторяются.
      * Для этого используется массив, содержащий числа от 0 до 9.
